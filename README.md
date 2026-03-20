@@ -3,7 +3,7 @@
 Sou estudante de Gestão e Programação de Sistemas Informáticos.
 Estou a desenvolver competências em várias áreas da programação, com o objetivo de definir a minha especialização no futuro.
 
-##💻 Tecnologias
+## 💻 Tecnologias
 -Python
 -HTML
 -Bases de dados (MySQL)
@@ -22,7 +22,7 @@ Website desenvolvido com HTML e CSS, com um layout simples.
 Tecnologias: HTML, CSS 
 Objetivo: Praticar desenvolvimento web e organização de conteúdos
 
-##📚 Atualmente a aprender
+## 📚 Atualmente a aprender
 - Python
 - Bases de dados
 - Programação Orientada a Objetos (POO)
@@ -34,7 +34,7 @@ Objetivo: Praticar desenvolvimento web e organização de conteúdos
 -Participar em projetos reais
 -Continuar a aprender novas tecnologias
 
-##📩 Contacto
+## 📩 Contacto
 - Email: Marianacabrera865@email.com
 
 <!--
